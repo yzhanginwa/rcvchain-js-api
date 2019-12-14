@@ -1,5 +1,5 @@
 {
-  "name": "@lunie/cosmos-api",
+  "name": "rcvchain-js-api",
   "version": "0.2.2",
   "description": "Cosmos API is a library for interacting with applications built on the Cosmos SDK.",
   "main": "lib/cosmos.js",
